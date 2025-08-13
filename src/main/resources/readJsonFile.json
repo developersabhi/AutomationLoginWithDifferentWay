@@ -1,0 +1,18 @@
+[
+  {
+    "username": "validUser",
+    "password": "validPass"
+  },
+  {
+    "username": "invalidUser",
+    "password": "validPass"
+  },
+  {
+    "username": "validUser",
+    "password": "wrongPass"
+  },
+  {
+    "username": "",
+    "password": ""
+  }
+]
